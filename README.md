@@ -1,2 +1,2 @@
 # Test
-Learning CI/CD pipelines
+Learning CI/CD pipelines and practising
